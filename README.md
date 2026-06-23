@@ -1,4 +1,5 @@
 Project Author: Espi Madrazo
+
 Project Description: Framework for APIs tests automation and basic requests tests. The public API from "https://jsonplaceholder.typicode.com" was used.
 
 *Required dependencies*
